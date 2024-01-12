@@ -1,5 +1,5 @@
 # Football-Team-Card [Website-Link](https://kumarshivam04203.github.io/Football-Team-Card/)
-#[main-page](./image/Screenshot 2024-01-11 163834.png)
+![main-page](./image/Screenshot 2024-01-11 163834.png)
 
 # Project Description
  * Football Team Cards web applications: processing datasets, and then outputting information to the screen.
